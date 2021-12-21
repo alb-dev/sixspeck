@@ -64,7 +64,7 @@ markdown_extensions:
 nav:
   - Introduction: index.md
   - workout:
-      - uebungen: workout/uebungen.md
+      - Übungen: workout/uebungen.md
   - protein:
       - Whey: protein/whey.md
-      - DNS: protein/3komponenten.md
+      - 3 Komponenten: protein/3komponenten.md
